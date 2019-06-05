@@ -1,1 +1,1 @@
-# Machine Learning Practice Exercise
+# Machine Learning Exercise using JS
